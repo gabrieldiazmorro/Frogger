@@ -8,7 +8,7 @@ import Main.Handler;
 import Resources.Images;
 
 public class BlueCar extends StaticBase {
-
+	//Second Car at double speed than original car
     private Rectangle bluecar;
 
     public BlueCar(Handler handler,int xPosition, int yPosition) {
